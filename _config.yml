@@ -159,8 +159,8 @@ baidu_push: false
 menu:
   Home: / || home
   About: /about.html || user
-  IT•互联网: /categories/IT || th
-  生活•随想: /categories/Life || th
+  IT • Internet: /categories/IT || th
+  Life • Dream: /categories/Life || th
   # tags: /tags/ || tags
   Archives: /archives/ || archive
   # schedule: /schedule/ || calendar
